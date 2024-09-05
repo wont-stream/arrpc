@@ -69,7 +69,7 @@ Then just use apps with Discord RPC like normal and they _should_ work!
 - [x] WebSocket Server
   - [x] JSON
   - [ ] Erlpack
-  - [ ] 
+
 ### Commands
 
 - [x] SET_ACTIVITY
