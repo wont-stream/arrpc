@@ -69,15 +69,7 @@ Then just use apps with Discord RPC like normal and they _should_ work!
 - [x] WebSocket Server
   - [x] JSON
   - [ ] Erlpack
-- [ ] HTTP Server
-- [x] IPC
-- [x] Process Scanning
-
+  - [ ] 
 ### Commands
 
-- [x] DISPATCH
 - [x] SET_ACTIVITY
-- [x] INVITE_BROWSER
-- [x] GUILD_TEMPLATE_BROWSER
-- [x] DEEP_LINK
-- [x] CONNECTIONS_CALLBACK
